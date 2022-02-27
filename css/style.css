@@ -48,6 +48,11 @@
         font-size: 8px;
 
     }
+    .slider {
+       top: 25vh;
+       width: 180%;
+       left: -47%;
+    }
     .swiper-slide h3{
         font-size: 12px;
 
